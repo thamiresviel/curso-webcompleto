@@ -7,21 +7,22 @@ Esse repositório refere-se ao curso da UDEMY e os projetos desenvolvidos durant
 Formação composta por 13 minicursos. Separados entre *front-end* e *back-end*.
 
 **- Minicursos de *Front-Ed***
-    1. HTML 5
-    2. CSS3
-    3. JAVASCRIPT
-    4. JQUERY
-    5. BOOTSTRAP
-    6. ECMASCRIPT 6
-    7. YOUTUBE API
-    8. SEO
+    - HTML 5
+    - CSS3
+    - JAVASCRIPT
+    - JQUERY
+    - BOOTSTRAP
+    - ECMASCRIPT 6
+    - YOUTUBE API
+    - SEO
 
 **- Minicursos de *Back-End***
-    1. PHP FUNDAMENTAL
-    2. BANCO DE DADOS MYSQL
-    3. PHP COM MYSQL
-    4. PHP COM MYSQL AVANÇADO
-    5. PHP COM AJAX
+
+    - PHP FUNDAMENTAL
+    - BANCO DE DADOS MYSQL
+    - PHP COM MYSQL
+    - PHP COM MYSQL AVANÇADO
+    - PHP COM AJAX
 
 ## O que é *front-end* e *back-end*
 
